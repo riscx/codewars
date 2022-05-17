@@ -1,4 +1,4 @@
 # codewars
-My Codewars
-Aiming to sharpen my coding skills
-Also to get used to Git processes and Methods
+My Codewars <br>
+Aiming to sharpen my coding skills <br>
+Also to get used to Git processes and Methods <br>
